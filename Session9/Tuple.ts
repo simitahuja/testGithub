@@ -10,7 +10,7 @@ let person:[string,number]=["John",23];
 console.log(person[0]);
 */
 /*
-//Example 2- Tuple with multiple vlues
+//Example 2- Tuple with multiple values
 
 let user:[number, string, number]=[12,"John",123];
 console.log(user);

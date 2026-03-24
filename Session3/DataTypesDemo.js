@@ -17,7 +17,6 @@ Integ=rface
 Touple etc...
 
 */
-
 //Primitive Data Type
 /*
 //a) Number type- It represents both integers and floating point numbers
@@ -31,7 +30,7 @@ console.log("Price:",price);
 console.log("A big number:",big);
 
 console.log(typeof(age));
-*//*
+*/ /*
 //b) String type- it represents textual data
 
 //-> USing single quote
@@ -94,20 +93,10 @@ function show(): void
 }
 show();
 */
-
-function sum(x:number, y:number):number
-{
-   //console.log(x+y);
-   return (x+y);
+function sum(x, y) {
+    //console.log(x+y);
+    return (x + y);
 }
-let result1:number=sum(10,20);
+var result1 = sum(10, 20);
 console.log(result1);
-
 //m(10,20);
-
-
-
-
-
-
-
